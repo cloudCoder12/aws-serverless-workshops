@@ -1,5 +1,5 @@
 /*global WildRydes _config AmazonCognitoIdentity AWSCognito*/
-
+//will refactor for decoupling
 var WildRydes = window.WildRydes || {};
 
 (function scopeWrapper($) {
